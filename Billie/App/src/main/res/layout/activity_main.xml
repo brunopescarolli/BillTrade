@@ -26,9 +26,9 @@
             android:layout_height="wrap_content"
             android:text="Exchange Range"
             android:textAlignment="center"
-            android:fontFamily="res/font/ModernSans-Light"
             android:textSize="35sp"
-            android:textColor="#fff"/>
+            android:textColor="#fff"
+            android:gravity="center_horizontal" />
 
         <EditText
             android:layout_width="match_parent"
